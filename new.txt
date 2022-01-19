@@ -1,0 +1,5 @@
+First name: Serj
+Surname: Kabulov
+Age:34
+quantity of pets: 1
+Salary: 500USD
