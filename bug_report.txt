@@ -1,1 +1,13 @@
+Project: X
+Assigned to: Mr. Serj
+Priority: non priority
+Status: new
+Type: bug
 
+
+Choose a project and click Edit button  
+Change the status of e project 
+Click Save changes 
+Click Project Viewing page 
+Result the status is not renewed 
+Expected result: the status is renewed
